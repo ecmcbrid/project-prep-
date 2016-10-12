@@ -1,0 +1,11 @@
+h1 {
+  color: green; }
+
+ul li h1 {
+  color: orange; }
+ul li h2 {
+  color: #c864ff; }
+ul li h3 {
+  color: salmon; }
+
+/*# sourceMappingURL=style.css.map */
